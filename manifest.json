@@ -1,10 +1,10 @@
 {
-  "name": "My Web App",
-  "short_name": "WebApp",
+  "name": "Brainful Hub",
+  "short_name": "Brainful",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "theme_color": "#0070f3",
   "icons": [
     {
       "src": "icon.png",
